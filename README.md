@@ -20,6 +20,8 @@ Ad-Hoc Requests:
 
 
 **Data description:**
+This is the list of tables in the dataset:
+
 ![List of tables gdb0041](https://github.com/JoysonPrince/Ad-Hoc-Requests/assets/137388224/90575cb6-8a9c-4bb5-bf69-eac72805d9f5)
 
 
