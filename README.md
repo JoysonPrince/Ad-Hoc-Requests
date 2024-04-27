@@ -1,4 +1,4 @@
-# **AtliQ Hardware:Consumer goods Ad-Hoc Requests:**
+# **AtliQ Hardware: Consumer goods Ad-Hoc Requests:**
 
 
 
